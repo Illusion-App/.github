@@ -14,15 +14,15 @@ Our app leverages advanced machine learning techniques to analyze and identify t
 3. Confidence Scoring: A feature that provides a percentage-based confidence score, giving users insight into the likelihood of an image being AI-generated.
 
 ## 🌟Team Members
-| Student ID   | Member Name     | Learning Path | Linkedin |
-|--------------|--------------|--------------|--------------|
-| M174B4KY1181  |  Dominic Naufal Ramadhan Herwanto | Machine Learning|[@dominic-naufal](linkedin.com/in/dominic-naufal)
-| M174B4KX3327 | Ni Kadek Ratih Ranupadma | Machine Learning | [@ratihranupadma](linkedin.com/in/ratihranupadma)
-| M174B4KX3349 | Ni Putu Sania Pradnyadewi | Machine Learning | [@saniapradnyadewi](linkedin.com/in/saniapradnyadewi)
-| C174B4KX0890 | Calista Yeo | Cloud Computing | [@calista-yeo](linkedin.com/in/calista-yeo)
-| C014B4KY1830 | I Gusti Ngurah Yuwanda Ryan | Cloud Computing | [@ngurah-yuwanda](linkedin.com/in/i-gusti-ngurah-yuwanda-ryan-577367312)
-| A014B4KY1651 | Gusti Ngurah Pramana Jagaditha | Mobile Development | [@pramana-jagaditha](linkedin.com/in/gusti-ngurah-pramana-jagaditha-54b41b327)
-| A174B4KY3531 | Putu Aris Surya Kusuma | Mobile Development | [@aris-surya](linkedin.com/in/putuarissuryakusuma)
+| Student ID   | Member Name                      | Learning Path      | Linkedin Profile                                                                            |
+| :----------: | :------------------------------: | :----------------: | :-----------------------------------------------------------------------------------------: |
+| M174B4KY1181 | Dominic Naufal Ramadhan Herwanto | Machine Learning   | [@dominic-naufal](https://www.linkedin.com/in/dominic-naufal/)                              |
+| M174B4KX3327 | Ni Kadek Ratih Ranupadma         | Machine Learning   | [@ratihranupadma](https://www.linkedin.com/in/ratihranupadma/)                              |
+| M174B4KX3349 | Ni Putu Sania Pradnyadewi        | Machine Learning   | [@saniapradnyadewi](https://www.linkedin.com/in/saniapradnyadewi)                           |
+| C174B4KX0890 | Calista Yeo                      | Cloud Computing    | [@calista-yeo](https://www.linkedin.com/in/calista-yeo)                                     |
+| C014B4KY1830 | I Gusti Ngurah Yuwanda Ryan      | Cloud Computing    | [@ngurah-yuwanda](https://www.linkedin.com/in/i-gusti-ngurah-yuwanda-ryan-577367312)        |
+| A014B4KY1651 | Gusti Ngurah Pramana Jagaditha   | Mobile Development | [@pramana-jagaditha](https://www.linkedin.com/in/gusti-ngurah-pramana-jagaditha-54b41b327/) |
+| A174B4KY3531 | Putu Aris Surya Kusuma           | Mobile Development | [@aris-surya](https://www.linkedin.com/in/putuarissuryakusuma/)                             |
 
 ## ⚙️Tools and Stacks
 - Machine Learning:
